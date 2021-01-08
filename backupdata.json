@@ -1,0 +1,20 @@
+{
+  "appPackage": "com.luckyystore.skincraft.mcpeskins",
+  "isLive": true,
+  "newAppPackage": "",
+  "isAdsShow": true,
+  "inter": "ca-app-pub-2056983156041609/3771225448",
+  "fb_inter": "1",
+  "fb_banner": "1",
+  "fb_native": "1",
+  "isShowGG": false,
+  "banner": "ca-app-pub-2056983156041609/9122983840",
+  "nativeAd": "ca-app-pub-2056983156041609/2677635625",
+  "rewarded": "",
+  "percent_banner": 100,
+  "percent_inter": 100,
+  "percent_native": 100,
+  "numberNativeAd": 3,
+  "numberInterAd": 100,
+  "timeRequestAd": 3000
+}
