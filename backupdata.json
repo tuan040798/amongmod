@@ -7,7 +7,7 @@
   "fb_inter": "1",
   "fb_banner": "1",
   "fb_native": "1",
-  "isShowGG": false,
+  "isShowGG": true,
   "banner": "ca-app-pub-2056983156041609/9122983840",
   "nativeAd": "ca-app-pub-2056983156041609/2677635625",
   "rewarded": "",
